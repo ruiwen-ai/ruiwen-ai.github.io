@@ -9,8 +9,8 @@ profile:
   image: rui_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Stuhlsatzenhaus 5</p>
-    <p>66123 Saarbrücken, Germany</p>
+    <p>Ookayama campus</p>
+    <p>Meguro, Tokyo, Japan</p>
 
 
 news: true  # includes a list of news items
